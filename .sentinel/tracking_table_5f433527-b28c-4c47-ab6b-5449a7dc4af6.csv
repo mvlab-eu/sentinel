@@ -1,3 +1,4 @@
 FileName, CommitSha
 Playbooks/myPlaybooks/alert-trigger/azuredeploy.json,a029ff8f23d88e6721d005c2c618c42826ee8f38
+Playbooks/myPlaybooks/incident-trigger/azuredeploy.json,41fbc0180f1f1ceebf94247faea7dd0894910788
 
